@@ -7,9 +7,9 @@ namespace ChatGPTAPI.Controllers
     [Route("[controller]")]
     public class ChatGPTController : ControllerBase
     {
-        private readonly IChatGPTService _chatGPTService;  // Field
+        private readonly IChatGPTService _chatGPTService;  
 
-        public ChatGPTController(IChatGPTService chatGPTService) // Traditional Constructor
+        public ChatGPTController(IChatGPTService chatGPTService) 
         {
             _chatGPTService = chatGPTService;
         }

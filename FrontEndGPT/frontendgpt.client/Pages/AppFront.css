@@ -1,0 +1,26 @@
+/* Main Layout */
+.app-container {
+    background-color: #e0f7fa; /* Soft Blue Background */
+    padding: 20px; /* Add some breathing room */
+}
+
+/* Styling for Labels */
+label {
+    display: block; /* Labels sit above input fields  */
+    margin-bottom: 5px; /* Space from element below */
+}
+
+/* Query Area Customizations  */
+.question-box input[type="text"] {
+    width: 500px; /* Adjust this as needed  */
+    padding: 10px;
+    border: 1px solid #ccc; /*  Subtle  Border */
+}
+
+/* Response Area Customizations */
+.response-box {
+    background-color: #fff; /* White Background */
+    border: 2px solid black;
+    padding: 15px;
+    margin-top: 20px; /* Separate it from Query */
+}

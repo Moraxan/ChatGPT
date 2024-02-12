@@ -1,0 +1,2 @@
+C:\Users\calle\source\repos\FrontEndGPT\frontendgpt.client\obj\Debug\frontendgpt.client.esproj.CoreCompileInputs.cache
+C:\Users\calle\source\repos\ChatGPT\FrontEndGPT\frontendgpt.client\obj\Debug\frontendgpt.client.esproj.CoreCompileInputs.cache

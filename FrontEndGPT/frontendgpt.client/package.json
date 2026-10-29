@@ -12,12 +12,12 @@
   "dependencies": {
     "esbuild": "^0.28.2",
     "frontendgpt.client": "file:",
-    "react": "^18.2.0",
+    "react": "^19.3.1",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
-    "@types/react": "^18.2.55",
+    "@types/react": "^19.3.0",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^8.72.1",
     "@typescript-eslint/parser": "^8.72.1",
